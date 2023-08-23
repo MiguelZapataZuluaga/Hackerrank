@@ -1,5 +1,5 @@
-Consulta una lista de nombres de CIUDAD de ESTACIÓN para ciudades que tienen un número de identificación par. 
-Imprima los resultados en cualquier orden, pero excluya los duplicados de la respuesta.
+/*Consulta una lista de nombres de CIUDAD de ESTACIÓN para ciudades que tienen un número de identificación par. 
+Imprima los resultados en cualquier orden, pero excluya los duplicados de la respuesta.*/
 
 select distinct city /* distinct-nombres repetidos los excluye*/
 from station
